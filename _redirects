@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://elated-morse-427f8d.netlify.com/* https://scorpil.com/:splat 301!
