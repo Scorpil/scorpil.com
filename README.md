@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/010e3284-383f-4815-9f3f-b8be67af0355/deploy-status)](https://app.netlify.com/sites/scorpil/deploys)
