@@ -1,0 +1,51 @@
+baseurl = "https://scorpil.com/"
+title = "Blog"
+theme = "ghostwriter"
+languageCode = "en-us"
+copyright = "Andrew Savchyn"
+disqusShortname = "scorpil"
+googleAnalytics = "UA-139624509-1"
+
+[Privacy]
+
+[Privacy.disqus]
+    disable = false
+
+[Privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+[Author]
+    name = "Scorpil"
+    profile = "https://twitter.com/scorpil"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = ""
+    github = "https://github.com/scorpil"
+    gitlab = "https://gitlab.com/scorpil"
+    linkedin = "https://linkedin.com/in/asavchyn/"
+    twitter = "https://twitter.com/scorpil"
+    stackoverflow = "https://stackoverflow.com/users/186518/scorpil"
+    email = "dev@scorpil.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = false
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+    exponeaJsUrl = ""
+    exponeaTarget = ""
+    exponeaToken = ""
+    exponeaTrackVisits = false
+    readingTime = false
+    readingTimeText = "Estimating reading time: "
+
+[Permalinks]
+    post = "/post/:filename/"
