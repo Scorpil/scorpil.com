@@ -9,7 +9,6 @@ tags = [
 ]
 date = 2020-09-20T09:43:31Z
 author = "Scorpil"
-draft = true
 +++
 
 VPC is the topic that flies under the radar of many Software Developers, despite being present in every AWS account (well, maybe not for accounts created before 2009... But that's unlikely). There are a few reasons for this I can think of:
