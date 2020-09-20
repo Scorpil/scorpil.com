@@ -1,5 +1,5 @@
 +++
-title = "Demistifying AWS VPC"
+title = "Demystifying AWS VPC"
 description = "Short step-by-step guide to create a secure custom VPC in AWS"
 tags = [
     "aws",
