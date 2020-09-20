@@ -1,6 +1,6 @@
 +++
 title = "Demystifying AWS VPC"
-description = "Short step-by-step guide to create a secure custom VPC in AWS"
+description = "A short step-by-step guide to creating a secure custom VPC in AWS"
 tags = [
     "aws",
     "vpc",
