@@ -40,6 +40,8 @@ Phoenix’s performance has surprisingly little to do with the framework itself.
 
 While lightweight processes help you perform well on your IO-bound tasks, Elixir being a compiled language means that CPU bound tasks won't bottleneck easily as well, and perform on less computing resources than most alternatives. While I can't be 100% sure that it will be faster for your application than Go or Rust in terms of CPU usage, I'm reasonably sure that it will be more than fast enough in a context of a typical web app.
 
+_**Update:** correction based on discussion in here and on other platforms: Elixir is slower than Go/Rust on purely CPU-bound tasks, mainly because BEAM interrupts running threads for task scheduling. Also, Elixir/Erlang compiles to bytecode, not directly to the machine code (although BeamAsm, JIT compiler for Erlang's VM, has [landed in master 4 days ago](https://github.com/erlang/otp/pull/2745), so this should change in the next OTP release)._
+
 ### 4. Failure tolerance and cluster-awareness
 
 You might have heard Phoenix being called a "monolithic framework". This is true to some extent: Phoenix *does* encourage you to put your frontend, backend, and background tasks in the same app. However, it also provides facilities to ensure that failure in a single component of the app will not affect other independent components. To explain in short, the app is divided into processes that communicate with each other via kind-of event messages. Each component is supervised, the supervisor will catch unhandled failures and restart the process in an attempt to fix them. It's somewhat reminiscent of a microservice architecture, just on a lower level.
