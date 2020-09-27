@@ -17,7 +17,7 @@ VPC is the topic that flies under the radar of many Software Developers, despite
 2. Startups often don't bother tuning it - everything works with default settings after all
 3. Networking is complicated and is rarely regarded as fun
 
-Despite those somewhat justified arguments, most developers that deal with AWS would benefit from digging deeper into VPC setup and it's configuration. Here are my counterpoints:
+Despite those somewhat justified arguments, most developers that deal with AWS would benefit from digging deeper into VPC setup and its configuration. Here are my counterpoints:
 
 1. Understanding VPC will help you communicate with; Ops/DevOps/SysAdmin/SRE/Security department much more efficiently
 2. Everything works by default because everything is open (i.e. unsecure) by default
@@ -35,7 +35,7 @@ VPC stands for Virtual Private Cloud, which is a very apt name for a service, un
 - It's **Private**, because it allows you to carve out your own dedicated space for your cloud infrastructure, walled out and carefully guarded against the dangers of the public internet;
 - It's a **Cloud** because, well, it's in **AWS**. Or, actually, the better way to think about it as being *around* AWS.
 
-In other words, the idea of VPC is to give the user a granular set of controls over what networks requests are allowed to reach its services from the outside, and how to route the requests inside the cloud infrastructure.
+In other words, the idea of VPC is to give the user a granular set of controls over what network requests are allowed to reach its services from the outside, and how to route the requests inside the cloud infrastructure.
 
 VPC operates on the regional level, meaning that if you want your application to span multiple regions you will need to perform VPC setup for each region separately and configure a VPC peering between them.
 
