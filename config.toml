@@ -3,18 +3,12 @@ title = "Blog"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Andrew Savchyn"
-disqusShortname = "scorpil"
-googleAnalytics = "UA-139624509-1"
+disqusShortname = "Scorpil"
 
 [Privacy]
 
 [Privacy.disqus]
     disable = false
-
-[Privacy.googleAnalytics]
-    anonymizeIP = true
-    respectDoNotTrack = true
-    useSessionStorage = false
 
 [Author]
     name = "Scorpil"
@@ -24,12 +18,14 @@ googleAnalytics = "UA-139624509-1"
     tag = "tags"
 
 [Params]
+    description = "Software development, architecture, cloud infrastructure and such stuff..." 
     intro = true
     headline = ""
     github = "https://github.com/scorpil"
     gitlab = "https://gitlab.com/scorpil"
     linkedin = "https://linkedin.com/in/asavchyn/"
     twitter = "https://twitter.com/scorpil"
+    mastodon = "https://mastodon.social/@scorpil"
     stackoverflow = "https://stackoverflow.com/users/186518/scorpil"
     email = "dev@scorpil.com"
     opengraph = true

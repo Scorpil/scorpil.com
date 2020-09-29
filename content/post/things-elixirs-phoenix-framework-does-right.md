@@ -7,6 +7,7 @@ tags = [
 ]
 date = 2020-09-25T07:30:34Z
 author = "Scorpil"
+images = [ "/img/phoenix.png" ]
 +++
 
 I dabbled in Phoenix for a while now, but never _really_ got my hands dirty with it right up until now. Apart from the whole framework being surprisingly well thought through, there are a few things that strike me as being done _exceptionally_ well in Phoenix, compared to the rest of modern web frameworks.
