@@ -45,3 +45,6 @@ disqusShortname = "Scorpil"
 
 [Permalinks]
     post = "/post/:filename/"
+
+[markup.goldmark.renderer]
+    unsafe = true
