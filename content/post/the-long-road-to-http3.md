@@ -14,7 +14,7 @@ images = [
 ]
 +++
 
-While HTTP/33 specification is still in the draft stage, the latest version of the Chrome browser already [supports it by default](https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html). With Chrome holding around 70% of browser market share, you could say HTTP/3 has gone mainstream.
+While HTTP/3 specification is still in the draft stage, the latest version of the Chrome browser already [supports it by default](https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html). With Chrome holding around 70% of browser market share, you could say HTTP/3 has gone mainstream.
 
 ![QUIC logo](/img/the-long-road-to-http3/quic-logo.png)
 
