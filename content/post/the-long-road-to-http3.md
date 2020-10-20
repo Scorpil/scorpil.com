@@ -2,7 +2,7 @@
 title = "The Long Road to HTTP/3"
 description = "Short history of HTTP protocol"
 author = "Scorpil"
-date = 2020-10-19T01:21:20+02:00
+date = 2020-10-20T08:21:20+02:00
 tags = ["networking", "http", "history"]
 images = [
     "/img/the-long-road-to-http3/quic-logo.png",
@@ -12,7 +12,6 @@ images = [
     "/img/the-long-road-to-http3/http2-multiplexing.png",
     "/img/the-long-road-to-http3/http3-streams.png",
 ]
-draft = true
 +++
 
 While HTTP/33 specification is still in the draft stage, the latest version of the Chrome browser already [supports it by default](https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html). With Chrome holding around 70% of browser market share, you could say HTTP/3 has gone mainstream.
