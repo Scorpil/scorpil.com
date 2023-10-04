@@ -1,5 +1,6 @@
 baseurl = "https://scorpil.com/"
 title = "Blog"
+freelance ="Freelance"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Andrew Savchyn"
@@ -18,7 +19,7 @@ disqusShortname = "Scorpil"
     tag = "tags"
 
 [Params]
-    description = "Software development, architecture, cloud infrastructure and such stuff..." 
+    description = "Software development, cloud architecture, AI"
     intro = true
 
     github = "https://github.com/scorpil"
@@ -48,3 +49,16 @@ disqusShortname = "Scorpil"
 
 [markup.goldmark.renderer]
     unsafe = true
+
+[[menu.main]]
+    name = "Freelance"
+    url = "/freelance/"
+    weight = 1
+
+[[menu.main]]
+    name = "Mailing List"
+    url = "https://listmonk.scorpil.com/subscription/form"
+    weight = 2
+    
+    [[menu.main.params]]
+        target = "_blank"
