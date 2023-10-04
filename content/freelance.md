@@ -1,52 +1,55 @@
++++
+title = "Freelance Services"
+description = "Cloud Architecture, Technical Consulting, Software Development"
++++
+
 Hi, I'm Andrew, and I'm here to be your go-to expert in the realms of Software Development and Cloud Architecture. With a passion for innovation and a wealth of experience, I'm dedicated to helping businesses thrive in the ever-changing technological landscape.
 
 Contact me at freelance@scorpil.com
 
 ----
 
-## Freelance Services
+## Technical Consulting
 
-### Technical Consulting
-
-#### Strategic Project Planning
+### Strategic Project Planning
 
 Crafting tailored project strategies that align technical solutions with your business objectives. My strategic guidance ensures that your projects are not only successful but also contribute to your long-term growth.
 
-#### Efficiency Optimization
+### Efficiency Optimization
 
 Identifying and eliminating inefficiencies within your existing technical processes. By optimizing workflows and streamlining operations, I help you reduce costs and enhance productivity.
 
-#### Risk Assessment and Mitigation
+### Risk Assessment and Mitigation
 
 I proactively identify potential risks in your projects and develop mitigation strategies. This helps you avoid costly setbacks and keeps your projects on track.
 
-#### Compliance Assistance
+### Compliance Assistance
 
 I offer comprehensive compliance support, including guidance on data protection and privacy regulations such as GDPR (General Data Protection Regulation). I help ensure that your technical solutions align with the latest compliance requirements, safeguarding your data and reputation.
 
-### Cloud Architecture
+## Cloud Architecture
 
-#### Architecting Cloud and Hybrid Systems
+### Architecting Cloud and Hybrid Systems
 
 I develop tailored cloud and hybrid strategies aligned with your business objectives, ensuring that your cloud infrastructure is optimized for performance, cost-efficiency, and scalability. 
 
-#### Cost Optimization
+### Cost Optimization
 
 I help you maximize cost-efficiency by continuously monitoring cloud resource usage, implementing cost-saving strategies.
 
-#### Scalability Planning
+### Scalability Planning
 
 Thinking ahead is crucial. I provide insights into how your technical infrastructure can scale to accommodate future growth, ensuring that your systems remain adaptable and future-proof.
 
-### Software Development
+## Software Development
 
-#### Custom Application Development
+### Custom Application Development
 
-I specialize in creating tailored software solutions that address your unique business needs.
+Creating tailored software solutions that address your unique business needs.
 
-#### AI Integration
+### AI Integration
 
-integrating artificial intelligence (AI) capabilities into your software solutions. Whether you need natural language processing, machine learning models, computer vision, or AI-driven automation, I harness the power of AI to enhance the functionality, intelligence, and efficiency of your applications.
+Integrating artificial intelligence (AI) capabilities into your software solutions. Whether you need natural language processing, machine learning models, computer vision, or AI-driven automation, I harness the power of AI to enhance the functionality, intelligence, and efficiency of your applications.
 
 ----
 
