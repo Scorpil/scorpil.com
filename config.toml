@@ -1,5 +1,5 @@
 baseurl = "https://scorpil.com/"
-title = "Blog"
+title = "Software Development and AI Blog"
 freelance ="Freelance"
 theme = "ghostwriter"
 languageCode = "en-us"
@@ -19,7 +19,8 @@ disqusShortname = "Scorpil"
     tag = "tags"
 
 [Params]
-    description = "Software development, cloud architecture, AI"
+    headline = "Tech Blog"
+    description = "Software Development · Cloud Computing · AI"
     intro = true
 
     github = "https://github.com/scorpil"
