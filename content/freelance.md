@@ -3,9 +3,7 @@ title = "Freelance Services"
 description = "Cloud Architecture, Technical Consulting, Software Development"
 +++
 
-Hi, I'm Andrew, and I'm here to be your go-to expert in the realms of Software Development and Cloud Architecture. With a passion for innovation and a wealth of experience, I'm dedicated to helping businesses thrive in the ever-changing technological landscape.
-
-Contact me at freelance@scorpil.com
+For freelance inquiries, please reach out to me at freelance@scorpil.com.
 
 ----
 

@@ -58,7 +58,7 @@ disqusShortname = "Scorpil"
 [[menu.main]]
     name = "Mailing List"
     url = "https://listmonk.scorpil.com/subscription/form"
-    weight = 2
-    
+    weight = 2    
+
     [[menu.main.params]]
         target = "_blank"
