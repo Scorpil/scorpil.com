@@ -20,7 +20,7 @@ disqusShortname = "Scorpil"
 
 [Params]
     headline = "Tech Blog"
-    description = "Software Development · Cloud Computing · AI"
+    description = "Distributed Systems / Cloud Computing / AI"
     intro = true
 
     github = "https://github.com/scorpil"
