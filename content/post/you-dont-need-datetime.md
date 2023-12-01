@@ -21,7 +21,7 @@ So let's establish some ground rules:
 - **date/time** is, as one would expect, a date coupled with wall clock time. Same as with date, your date/time is a local concept. The correct time is determined by what timezone your location is assigned to.
 - yet, time is the same for everyone (relativistic effects, while fascinating, are out of the scope of this article). A single event occurs at a single **point-in-time**, that's mapped to different dates and times across timezones.
 
-Most time when you use **date/time** in daily life, you implicitly assume the **local** **timezone**. Without this crucial piece of information **date/time** can not be mapped to a **point in time**. So is a **date/time** without a timezone useful at all?
+Most of the time when you use **date/time** in daily life, you implicitly assume the **local** **timezone**. Without this crucial piece of information **date/time** can not be mapped to a **point in time**. So is a **date/time** without a timezone useful at all?
 
 Intuitively, we use date/time without timezone for things where precision is not important. When you move to a different country, you do not re-calculate your birthday, even though, technically, in the new timezone the moment of your birth might've happened on a different date. A birthday date and other holidays are examples of **date** information that inherently doesn't have a timezone, so storing it in a timezone-aware format requires some application-level handling.
 
@@ -72,7 +72,7 @@ You are likely better off with **a Unix timestamp** if:
 -   you want to keep your temporal data comparable/sortable (at scale)
 -   you need granular control over data storage requirements (at scale)
 
-Choose** DateTime with timezone** if:
+Choose **DateTime with timezone** if:
 
 -   you have **point-in-time** data but you want to retain information about the timezone from which the data originates
 -   you need to perform calendar-based manipulations with the date (e.g. use or modify month/week/date/year)
