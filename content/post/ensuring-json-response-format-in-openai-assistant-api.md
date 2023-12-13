@@ -141,7 +141,7 @@ def translate(input):
     )
 ```
 
-A crucial aspect of this Assistant definition is the response tool, whose parameters accept an OpenAPI schema definition to shape the desired output format. In my experience, LLMs sometimes omit optional arguments when faced with complex translations, such as proverbs, idioms, or culturally nuanced phrases like, for example, "a penny for your thoughts". Defining all attributes as required in the schema can mitigate this issue.
+A crucial aspect of this Assistant definition is the response tool, whose parameters accept an OpenAPI schema definition to shape the desired output format. In my experience, LLMs sometimes omit optional arguments when faced with complex translations, such as proverbs, idioms, or culturally nuanced phrases like, for example, "a penny for your thoughts". Defining all attributes as required in the schema mitigates this issue.
 
 Next, we create a thread (a "conversation" abstraction), define our input to the Assistant (sentence we want translated), and execute it all by creating a "run" object.
 
