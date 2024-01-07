@@ -3,7 +3,7 @@ title = "LLMs are an Index Into the Library of Babel"
 tags = [
     "ai",
 ]
-date = 2024-01-07T18:30:00Z
+date = 2024-01-07T16:30:00Z
 author = "Scorpil"
 images = [ "/img/library-of-babel.png" ]
 +++
