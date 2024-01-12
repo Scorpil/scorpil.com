@@ -2,7 +2,7 @@
 title = "Ensuring JSON Response Format in OpenAI Assistant API"
 description = "Function Calling for enforcing response schema"
 tags = [
-    "ai", "openai", "python"
+    "AI", "OpenAI", "python"
 ]
 date = 2023-12-13T11:50:00Z
 author = "Scorpil"

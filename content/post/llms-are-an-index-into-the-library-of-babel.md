@@ -1,7 +1,7 @@
 +++
 title = "LLMs are an Index Into the Library of Babel"
 tags = [
-    "ai",
+    "AI",
 ]
 date = 2024-01-07T16:30:00Z
 author = "Scorpil"

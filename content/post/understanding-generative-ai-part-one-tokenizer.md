@@ -1,9 +1,8 @@
 +++
 title = "Understanding Generative AI: Part One - Tokenizer"
-description = "AI for Software Engineers"
 author = "Scorpil"
 date = 2023-10-05T14:30:00+02:00
-tags = ["ai"]
+tags = ["Understanding Generative AI", "AI"]
 images = [
   "/img/understanding-generative-ai-part-one-tokenizer/gen-ai.png",
   "/img/understanding-generative-ai-part-one-tokenizer/genai-model-training-execution.png",
@@ -12,9 +11,9 @@ images = [
 ]
 +++
 
-_Welcome to the first article in a series that aims to provide a clear understanding of how modern AI models function. The goal is to explain the principles at work without delving into technical details like neural network architectures and mathematical foundations. This first entry focuses on model training and input tokenization. Future entries will cover common AI usage patterns like Chain-of-Thought, Retrieval Augmented Generation (RAG), ReAct agents, tools designed to simplify working with AI like LangChain, and many other topics. To stay updated on the latest AI developments and be notified when part two is released [subscribe to the mailing list](https://listmonk.scorpil.com/subscription/form)._
+_Welcome to the first article in a series that aims to provide a clear understanding of how modern AI models function. The goal is to explain the principles at work without delving into technical details like neural network architectures and mathematical foundations. This first entry focuses on model training and input tokenization. Future entries will cover common AI usage patterns like Chain-of-Thought, Retrieval Augmented Generation (RAG), ReAct agents, tools designed to simplify working with AI like LangChain, and many other topics._
 
-![Artificially Generated image of womans face surrounded by bright lines](/img/understanding-generative-ai-part-one-tokenizer/gen-ai.png)
+![Artificially generated image of womans face surrounded by bright lines](/img/understanding-generative-ai-part-one-tokenizer/gen-ai.png)
 
 Recent advancements in the field of generative AI have profoundly transformed development patterns employed in AI-assisted applications. As recently as five years ago, integrating any AI into your application, besides the most basic one, would likely involve a team of computer scientists devising a neural network architecture, training, and meticulously fine-tuning models; in general, doing a lot of arcane wizardry hardly comprehensible for laypeople. But since the ChatGPT release less than a year ago, language models have become smart enough that people modify their behavior by what amounts to asking nicely (nicely part being optional).
 
@@ -90,5 +89,3 @@ At this point, I trust you have gained a solid understanding of the significance
 - Context window size is a crucial parameter for LLMs. A larger window improves performance but increases cost.
 
 By understanding the purpose of the token-based pricing structure, you can make informed decisions when using LLMs in real-world scenarios.
-
-_Did you learn something new? This is the first post in a series about how generative AI functions. Subscribe to [AI Insights Digest](https://listmonk.scorpil.com/subscription/form) to get AI-related news delivered to your email inbox._
