@@ -8,7 +8,7 @@ images = [
 ]
 +++
 
-_In [Part One](/post/understanding-generative-ai-part-two-neural-networks/) of the "Understanding Generative AI" series, we delved into Tokenization - the process of dividing text into tokens, which serve as the fundamental units of information for neural networks. These tokens are crucial in shaping how AI interprets and processes language. Building upon this foundational knowledge, we are now ready to explore Neural Networks - the cornerstone technology underpinning all Artificial Intelligence research._
+_In [Part One](/post/understanding-generative-ai-part-one-tokenizer/) of the "Understanding Generative AI" series, we delved into Tokenization - the process of dividing text into tokens, which serve as the fundamental units of information for neural networks. These tokens are crucial in shaping how AI interprets and processes language. Building upon this foundational knowledge, we are now ready to explore Neural Networks - the cornerstone technology underpinning all Artificial Intelligence research._
 
 ![A picture of a brain with electric signals traversing it](/img/understanding-generative-ai-part-two-neural-networks/neural-networks.png)
 
