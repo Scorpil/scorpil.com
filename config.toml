@@ -51,7 +51,7 @@ disqusShortname = "Scorpil"
 [markup.goldmark.renderer]
     unsafe = true
 
-[[menu.main]]
-    name = "Freelance"
-    url = "/freelance/"
-    weight = 1
+#[[menu.main]]
+#    name = "Freelance"
+#    url = "/freelance/"
+#    weight = 1
