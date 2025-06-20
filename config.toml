@@ -13,7 +13,7 @@ disqusShortname = "Scorpil"
 
 [Author]
     name = "Scorpil"
-    profile = "https://twitter.com/scorpil"
+    profile = "https://scorpil.com"
 
 [Taxonomies]
     tag = "tags"
@@ -26,12 +26,11 @@ disqusShortname = "Scorpil"
     github = "https://github.com/scorpil"
     gitlab = "https://gitlab.com/scorpil"
     linkedin = "https://linkedin.com/in/asavchyn/"
-    twitter = "https://twitter.com/scorpil"
     mastodon = "https://mastodon.social/@scorpil"
     stackoverflow = "https://stackoverflow.com/users/186518/scorpil"
     email = "dev@scorpil.com"
     opengraph = true
-    shareTwitter = true
+    shareTwitter = false
     shareFacebook = true
     shareGooglePlus = false
     shareLinkedIn = false

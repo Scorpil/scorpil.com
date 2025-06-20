@@ -8,7 +8,7 @@ tags = [
   "system design",
   "technical debt"
 ]
-date = 2025-06-20T11:00:00Z
+date = 2025-06-20T09:00:00Z
 author = "Scorpil"
 draft = false
 images = [ "/img/cap.png" ]
